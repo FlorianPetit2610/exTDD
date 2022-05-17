@@ -1,0 +1,15 @@
+E:\github\exTDD\exTDD\exTDD\bin\Release\net6.0\exTDD.exe
+E:\github\exTDD\exTDD\exTDD\bin\Release\net6.0\exTDD.deps.json
+E:\github\exTDD\exTDD\exTDD\bin\Release\net6.0\exTDD.runtimeconfig.json
+E:\github\exTDD\exTDD\exTDD\bin\Release\net6.0\exTDD.dll
+E:\github\exTDD\exTDD\exTDD\bin\Release\net6.0\ref\exTDD.dll
+E:\github\exTDD\exTDD\exTDD\bin\Release\net6.0\exTDD.pdb
+E:\github\exTDD\exTDD\exTDD\obj\Release\net6.0\exTDD.csproj.AssemblyReference.cache
+E:\github\exTDD\exTDD\exTDD\obj\Release\net6.0\exTDD.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\exTDD\exTDD\exTDD\obj\Release\net6.0\exTDD.AssemblyInfoInputs.cache
+E:\github\exTDD\exTDD\exTDD\obj\Release\net6.0\exTDD.AssemblyInfo.cs
+E:\github\exTDD\exTDD\exTDD\obj\Release\net6.0\exTDD.csproj.CoreCompileInputs.cache
+E:\github\exTDD\exTDD\exTDD\obj\Release\net6.0\exTDD.dll
+E:\github\exTDD\exTDD\exTDD\obj\Release\net6.0\ref\exTDD.dll
+E:\github\exTDD\exTDD\exTDD\obj\Release\net6.0\exTDD.pdb
+E:\github\exTDD\exTDD\exTDD\obj\Release\net6.0\exTDD.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c1ddb7eb-9691-4017-96f9-501f928a0407": {
+      "ProjectGuid": "c1ddb7eb-9691-4017-96f9-501f928a0407",
+      "DisplayName": "exTDD",
+      "ColorIndex": 0
+    },
+    "a292ac1e-ff2d-4ac6-89f9-79ffcd83b996": {
+      "ProjectGuid": "a292ac1e-ff2d-4ac6-89f9-79ffcd83b996",
+      "DisplayName": "TestProject1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
